@@ -28,9 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=knowledgemonkey&show_icons=true&theme=radical&hide_title=true" width="400px"/>
 </p>
 
-### 🔗 Connect  
-🐙 **GitHub:** [@knowledgemonkey](https://github.com/knowledgemonkey)  
-🐦 **Twitter:** [@YourHandleHere](https://twitter.com/)  
-🌐 **Website:** Coming soon...  
-
 > "Build. Learn. Optimize. Repeat."
