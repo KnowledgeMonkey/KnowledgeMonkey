@@ -27,15 +27,6 @@ Hey, I'm **Nox** 👋
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KnowledgeMonkey&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeMonkey&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
