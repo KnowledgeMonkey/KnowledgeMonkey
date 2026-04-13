@@ -3,7 +3,7 @@
 Hey, I'm **Nox** 👋  
 
 ![Location](https://img.shields.io/badge/Location-Germany-blue?style=for-the-badge&logo=googlemaps)
-![Age](https://img.shields.io/badge/Age-167-orange?style=for-the-badge)
+![Age](https://img.shields.io/badge/Age-17-orange?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Software%20Development-green?style=for-the-badge)
 
 🔹 Started with Minecraft plugins  
